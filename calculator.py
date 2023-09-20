@@ -12,7 +12,7 @@ while True:
         #listeyi kullanıcı eklemelerine göre güncelleme
 
         list = []
-        num = float(input("Islem yapmak istediginiz sayilar nelerdir?: "))
+        num = float(input("Islem yapmak istediginiz sayi miktari nedir?: "))
         for n in range(num):
             numbers = float(input("Islem yapmak istediginiz sayilar nelerdir?: "))
         list.append(numbers)
